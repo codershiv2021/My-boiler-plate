@@ -1,0 +1,8 @@
+#include <bits/stdc++.h>
+using namespace std;
+typedef long long int ll;
+typedef vector<int> vec;
+ll cc = 1e9+7;
+/* ascii value A=65,Z=90,a=97,z=122 */
+#define fr(x,n) for(int i = x; i < n; i++)
+#define debug(x) cout << (x);
