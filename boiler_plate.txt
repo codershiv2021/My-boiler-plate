@@ -7,10 +7,12 @@ ll cc = 1e9+7;
 #define fr(x,n) for(int i = x; i < n; i++)
 #define debug(x) cout << (x);
 
-variable change
-space hata dena
-order change karo aage piche 
-function call karo bahar likh ke
+
+-variable change
+-space hata dena
+-order change karo aage piche 
+-function call karo bahar likh ke
+
 
 1. int x=0;
 for (int i=0; i<10; i++){
